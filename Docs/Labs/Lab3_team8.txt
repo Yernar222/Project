@@ -1,0 +1,10 @@
+Lab-3 : Screenshots Analysis
+N4 “Message Distribution Service”
+Team N8 
+Problems:
+1. Based on Step-1, there isn`t identified the list of actors, use-cases of each actor;
+2. Menus, buttons, entry fields, action mechanisms aren`t described;
+3. Based on Step-3, there isn`t shown transitions in the screen flow graph showing what choices/events cause the transition;
+Benefits: 
+1. Screenshots and screenflow diagrams are very useful to interact the system with actors(client).
+2. Analysis helps to identify the actors and the use-cases (or services needed by the actors).

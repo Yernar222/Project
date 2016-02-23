@@ -1,0 +1,15 @@
+Team N 8
+Example – 2
+University ERP Management System
+Problems:
+1. Based on Step 3.2 use-cases aren`t had pre-conditions and post-conditions. (“Registration of Student by Dean”, “Registration of new Employee by Dean” )
+2. Some use-cases in Uml-format aren`t done correctly. (on p. 11 “Profile page”) (Server, DB).
+3. Step 2 placed before Step 1.
+2 features:
+1. Getting Notification. 
+Database; 
+This requires the database. The database records the number of parents registering. 
+2.  Video Preview.
+
+Video. 
+All videos are stored in the YouTube page (created by the channel name BAKKINDER). The player from youtube.   

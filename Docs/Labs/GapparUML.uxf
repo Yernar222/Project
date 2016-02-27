@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>0</x>
-      <y>60</y>
+      <x>20</x>
+      <y>250</y>
       <w>100</w>
       <h>110</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>80</x>
-      <y>70</y>
+      <x>110</x>
+      <y>270</y>
       <w>140</w>
       <h>40</h>
     </coordinates>
@@ -27,8 +27,8 @@ Log In</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>540</x>
-      <y>60</y>
+      <x>620</x>
+      <y>90</y>
       <w>170</w>
       <h>40</h>
     </coordinates>
@@ -38,34 +38,8 @@ Log In</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>230</x>
-      <y>150</y>
-      <w>20</w>
-      <h>110</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>240</x>
-      <y>160</y>
-      <w>140</w>
-      <h>80</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-
-
-Start Deleting
-</panel_attributes>
-    <additional_attributes>120.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>360</x>
-      <y>150</y>
+      <x>680</x>
+      <y>370</y>
       <w>20</w>
       <h>100</h>
     </coordinates>
@@ -75,8 +49,8 @@ Start Deleting
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>730</x>
-      <y>60</y>
+      <x>810</x>
+      <y>90</y>
       <w>160</w>
       <h>30</h>
     </coordinates>
@@ -86,8 +60,8 @@ Start Deleting
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>540</x>
-      <y>150</y>
+      <x>620</x>
+      <y>180</y>
       <w>20</w>
       <h>170</h>
     </coordinates>
@@ -97,8 +71,8 @@ Start Deleting
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>870</x>
-      <y>150</y>
+      <x>930</x>
+      <y>180</y>
       <w>20</w>
       <h>160</h>
     </coordinates>
@@ -108,66 +82,20 @@ Start Deleting
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>200</x>
-      <y>60</y>
-      <w>100</w>
-      <h>30</h>
+      <x>290</x>
+      <y>100</y>
+      <w>200</w>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>Photo page</panel_attributes>
+    <panel_attributes>button to add or 
+remove numbers</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>230</x>
-      <y>80</y>
-      <w>30</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>340</x>
-      <y>60</y>
-      <w>180</w>
-      <h>30</h>
-    </coordinates>
-    <panel_attributes>Choose photos for deletion</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>360</x>
-      <y>80</y>
-      <w>30</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>370</x>
-      <y>160</y>
-      <w>190</w>
-      <h>60</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-
-
-Confirm</panel_attributes>
-    <additional_attributes>170.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>540</x>
-      <y>90</y>
+      <x>620</x>
+      <y>120</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -177,39 +105,38 @@ Confirm</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>870</x>
-      <y>80</y>
-      <w>30</w>
+      <x>930</x>
+      <y>110</y>
+      <w>50</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;70.0;30.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>550</x>
-      <y>160</y>
-      <w>340</w>
+      <x>630</x>
+      <y>190</y>
+      <w>320</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 
 
 request</panel_attributes>
-    <additional_attributes>320.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>300.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
-    <id>Relation</id>
+    <id>UMLGeneric</id>
     <coordinates>
-      <x>230</x>
-      <y>250</y>
-      <w>670</w>
-      <h>220</h>
+      <x>290</x>
+      <y>200</y>
+      <w>200</w>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-after deleted
-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;190.0;650.0;190.0;650.0;60.0</additional_attributes>
+    <panel_attributes>button to add or 
+remove numbers</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

@@ -1,0 +1,23 @@
+Kindergarten “Bak”
+Team: “ZhADE”
+Team members: Zhansaya Assylbek, Gappar Yernar, Rahman Assylbek, Yergalieva Dana
+
+Project description:
+	This site will be created for parents and teachers. By using this site parents can watch how their children spend time in their absence. 
+ 
+Our goals: 
+-	Parents` web access
+-	Notifications to cell phones (holidays, schedule, tuition fee,  etc. )
+-	Children`s photos, videos from holiday activities, open lessons, etc.
+Actors:
+-	Visitors (someone who can visit and read about kindergarten without access);
+-	Parents (someone who controls his child and gets notifications );
+-	Administrator (someone who controls the workflow of site).
+Use cases:
+Parents: 
+-	Register/login 
+-	Leave comment, request
+-	Download the photos, videos
+Administrator:
+-	Manage users
+-	Manage staff

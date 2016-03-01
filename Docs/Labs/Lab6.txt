@@ -1,0 +1,26 @@
+  	Software Requirements Document for SDU Timetabling
+
+	Team 8
+
+	Zhansaya Assylbek, Yernar Gappar, Assylbek Rahman, Dana Yergalieva
+
+	Requirements
+	
+	NOT COMPLETE
+	Zhansaya Assylbek
+	3.2.2.1.7 (M) The SDU Timetabling shall allow the user to press on “Search”,”Export
+	PDF”,”Add Event”, “iCalendar” buttons. ---- there is not described what should be done in case "Export Pdf", "iCalendar" buttons are pressed.
+
+	UNAMBIGUOUS
+	Dana Yergaliyeva
+	3.2.1.2.5 (M) The SDU Timetabling shall allow to press on “Export” button in order to
+        export data to iCalendar after pressing “Next” button. ---- there is not described what is "iCalendar"
+
+	UNAMBIGUOUS
+	Yernar Gappar
+	3.2.2.1.3 (M) The SDU Timetabling shall allow the user to select from drop down list in
+	“Sponsoring Organizations” field ---- there is not described what is "Sponsoring organizations"
+	
+
+	
+	
